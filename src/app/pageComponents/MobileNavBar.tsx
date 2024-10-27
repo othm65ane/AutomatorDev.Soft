@@ -32,7 +32,7 @@ export const MobileNavBar: React.FC = () => {
                 <li>Home</li>
               </Link>
               <Link to={"/blog"}>
-                <li>Blog</li>
+                <li>Team</li>
               </Link>
               <Link to={"/showcase"}>
                 <li>Showcase</li>
